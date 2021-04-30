@@ -1,0 +1,32 @@
+# docs: https://github.com/moulco/moul/tree/master/docs#example-moultoml
+base = "/"
+ga_measurement_id = ""
+
+[style]
+theme = "light"
+cover = "right"
+content = "center"
+
+[profile]
+name = "AWtnb"
+bio = "Book editor"
+
+[social]
+twitter = ""
+github = "AWtnb"
+instagram = ""
+facebook = ""
+youtube = ""
+
+[content]
+title = "Kamakura"
+tags = ["Landscape", "Summer", "June", "2019"]
+text = """
+湘南・鎌倉
+"""
+
+[section.1]
+title = "film photos"
+text = """
+写ルンです
+"""
